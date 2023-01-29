@@ -1,2 +1,2 @@
 # object
-class python pour les graphes
+class en python et en java pour les graphes
